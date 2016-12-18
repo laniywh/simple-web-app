@@ -1,0 +1,39 @@
+body {
+	font-size: 16px;
+}
+
+h2 {
+	margin-bottom: 20px;
+}
+
+.container {
+  max-width: 700px;
+  padding: 0 20px;
+}
+
+.site-name {
+	margin: 0;
+	padding: 5px 0;
+}
+
+.navbar {
+	padding: 20px 40px;
+	font-size: .9rem;
+
+}
+.nav-link {
+	text-transform: uppercase;
+}
+
+.header {
+    padding-top: 2rem;
+}
+
+.btn-submit {
+	margin-right: 20px;
+}
+
+.login-info {
+	margin-top: 20px;
+	color: #AAACAC;
+}
