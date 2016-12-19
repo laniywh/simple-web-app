@@ -10,10 +10,10 @@ public class MySQLConnUtils {
   throws ClassNotFoundException, SQLException {
 
     // Note: Change the connection parameters accordingly.
-    String hostName = "localhost";
-    String dbName = "jspapp";
-    String userName = "root";
-    String password = "root";
+    String hostName = "us-cdbr-iron-east-04.cleardb.net";
+    String dbName = "heroku_57346e662b11146";
+    String userName = "b85001cf41fec5";
+    String password = "fc581124";
     return getMySQLConnection(hostName, dbName, userName, password);
   }
 
