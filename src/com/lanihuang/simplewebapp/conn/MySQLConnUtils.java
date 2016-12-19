@@ -11,9 +11,9 @@ public class MySQLConnUtils {
 
     // Note: Change the connection parameters accordingly.
     String hostName = "us-cdbr-iron-east-04.cleardb.net";
-    String dbName = "heroku_57346e662b11146";
-    String userName = "b85001cf41fec5";
-    String password = "fc581124";
+    String dbName = "heroku_2c893dd9e4fdf5d";
+    String userName = "bc7a403442c80e";
+    String password = "d85f72d1";
     return getMySQLConnection(hostName, dbName, userName, password);
   }
 
