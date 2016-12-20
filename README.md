@@ -1,5 +1,5 @@
 # Simpole Web Application
-A simple Java web application that is built to learn the basics of Java Server Page (JSP).
+A simple Java web application that is built to learn the basics of JavaServer Pages (JSP).
 
 [Demo](http://dry-scrubland-63512.herokuapp.com)
 
