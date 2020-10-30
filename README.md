@@ -1,4 +1,4 @@
-# Simpole Web Application
+# Simple Web Application
 A simple Java web application that is built to learn the basics of JavaServer Pages (JSP).
 
 [Demo](http://dry-scrubland-63512.herokuapp.com)
@@ -8,7 +8,7 @@ A simple Java web application that is built to learn the basics of JavaServer Pa
 - Use Eclipse for web app development
 - Setup local server and MySQL database
 - Integrate Eclipse with GitHub
-- Deploy web app on Heroku
+- Deploy web app on Heroku platform
 
 ## Learning Resources
 - [Installing Tomcat 8.5 on macOS 10.12 Sierra](https://wolfpaulus.com/journal/mac/tomcat8/)
